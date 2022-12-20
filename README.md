@@ -1,4 +1,4 @@
-# Harsh Keshri
+<!-- # Harsh Keshri
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -29,3 +29,4 @@
 ---
 
 ⭐️ From [@AnhellO](https://github.com/AnhellO)
+ -->
