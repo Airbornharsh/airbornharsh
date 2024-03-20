@@ -1,4 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+<p align="right">
+<a href="https://wakatime.com/@d387a980-9e90-47a7-ab90-7f783ad7dc8f"><img src="https://wakatime.com/badge/user/d387a980-9e90-47a7-ab90-7f783ad7dc8f.svg" alt="Total time coded since Jan 6 2023" /></a>
+</p>
 <h1 align="center">Hi 👋, I'm Harsh keshri</h1>
 <h3 align="center">I'm a versatile developer skilled in frontend, app, AIML, blockchain, and game development, creating engaging digital experience. 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
