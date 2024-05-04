@@ -35,9 +35,19 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/airbornharsh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="airbornharsh" /></a><a href="https://ko-fi.com/airbornharsh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="airbornharsh" /></a></p><br><br>
+<br />
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=airbornharsh&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="airbornharsh" /></p>
+<br />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airbornharsh&show_icons=true&locale=en&theme=midnight-purple" alt="airbornharsh" /></p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=airbornharsh&show_icons=true&locale=en&layout=compact" alt="airbornharsh" /></p>
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=zephyrus21&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="piyush-stats" /> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airbornharsh&show_icons=true&locale=en" alt="airbornharsh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=airbornharsh&" alt="airbornharsh" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=airbornharsh&theme=midnight-purple"/>
+<br />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zephyrus21&show_icons=true&theme=midnight-purple&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2&layout=compact"/> -->
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=airbornharsh&layout=compact&theme=midnight-purple&range=all_time"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=zephyrus21"/> -->
+</p>
