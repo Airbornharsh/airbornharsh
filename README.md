@@ -8,11 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airbornharsh&label=Profile%20views&color=0e75b6&style=flat" alt="airbornharsh" /> </p>
 
-- 🔭 I’m currently working on [Shore: a social media app](https://github.com/Airbornharsh/Shore_app)
+- 🌱 I’m currently learning **RUST**
 
-- 🌱 I’m currently learning **Springboot,Django**
-
-- 💬 Ask me about **react,next.js & flutter**
+- 💬 Ask me about **react,next.js,Express**
 
 - 📫 How to reach me **harshkeshri1234567@gmail.com**
 
